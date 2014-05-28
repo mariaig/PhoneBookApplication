@@ -1,6 +1,7 @@
 PhoneBookApplication
 ====================
-Pt zona de date am folosit o baza de date locala MySql si este imlementata inclusiv internationalizarea aplicatiei prin fisiere de configurare.
+Pt zona de date am folosit o baza de date locala prin intermediul MySql Workstation.
+Este imlementata si internationalizarea aplicatiei prin fisiere de configurare.
 
 Principalele target- uri:
 
